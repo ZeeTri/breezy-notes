@@ -3,10 +3,8 @@
 A beautifully simple, open-source productivity and note-taking application for Android.
 
 ## Features
-* Clean, minimal user interface
-* Offline-first local storage
-* Fast and responsive design
-* Open source and privacy-focused
+* Clean UI
+* Fully offline
 
 
 
